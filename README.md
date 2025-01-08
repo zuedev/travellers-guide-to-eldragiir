@@ -1,8 +1,6 @@
-# Travellers Guide to Eldragiir
+[](/assets/images/comfort-by-sara-berry/derivatives/comfort-thumbnail.jpg)
 
-# zue.dev
-
-> D&D-inspired sourcebook for worldbuilders
+# Traveller's Guide to Eldragiir
 
 ## Development
 
