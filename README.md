@@ -1,4 +1,4 @@
-[](/assets/images/comfort-by-sara-berry/derivatives/comfort-thumbnail.jpg)
+[](assets/images/comfort-by-sara-berry/derivatives/comfort-thumbnail.jpg)
 
 # Traveller's Guide to Eldragiir
 
