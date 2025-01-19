@@ -1,5 +1,11 @@
 # Feats
 
+## One-Handed
+
+**Prerequisites:** Requires a Strength score of 15 or higher
+
+You may wield any melee weapon with the Two-Handed property in one hand. When you do so, you do not gain the damage bonus from the Versatile property.
+
 ## Veteran Legionnaire
 
 **Prerequisites:** This feat can only be given out by the DM.
